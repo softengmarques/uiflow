@@ -22,10 +22,3 @@ UIFlow é um assistente de inteligência artificial feito com Streamlit e Groq, 
 
 ---
 
-## 📦 Instalação
-
-Clone o repositório:
-
-```bash
-git clone https://github.com/softengmarques/uiflow.git
-cd uiflow
